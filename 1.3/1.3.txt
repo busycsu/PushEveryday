@@ -1,0 +1,1 @@
+Some animation for aiChar (idle, blink)
