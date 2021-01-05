@@ -1,0 +1,2 @@
+Kaggle competetion, failed to solve the bugs when deploy to the kaggle notebooks.
+Choosing courses. Reading paper for sdn
