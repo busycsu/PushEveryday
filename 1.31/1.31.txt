@@ -1,0 +1,2 @@
+Two easy questions.
+Solve the problem for using transcription feature on react.
